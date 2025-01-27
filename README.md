@@ -21,7 +21,7 @@ It integrates with **LuckPerms** to display **prefixes & suffixes** in chat mess
 format: "<{prefix}{name}{suffix}> {message}"
 ```
 ```bash
-  /luckpermschatformatter reload
+/luckpermschatformatter reload
 ```
 ## **⚠️ Disclaimer:**
 >This plugin is **not affiliated with LuckPerms**.
