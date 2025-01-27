@@ -1,0 +1,18 @@
+name: LuckPermsChatFormatter
+version: '1.0'
+main: QuokkaGame.com.github.luckPermsChatFormatter.LuckPermsChatFormatter
+api-version: '1.21'
+dependencies:
+  server:
+    CommandAPI:
+      load: BEFORE
+      required: true
+      join-classpath: true
+    LuckPerms:
+      load: BEFORE
+      required: true
+      join-classpath: true
+permissions:
+  luckpermschatformatter.reload:
+    description: "LuckPermsChatFormatter reload permission"
+    default: op
