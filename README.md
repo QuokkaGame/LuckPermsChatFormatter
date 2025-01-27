@@ -12,7 +12,7 @@ It integrates with **LuckPerms** to display **prefixes & suffixes** in chat mess
 ✅ Simple reload command to apply changes instantly
 
 ## 📥 Installation
-1. **[Download the latest version](https://github.com/QuokkaGame/LuckPermsChatFormatter/releases/tag/v1.0)**
+1. **[Download the latest version](https://github.com/QuokkaGame/LuckPermsChatFormatter/releases/)**
 2. Place the `.jar` file into your `plugins/` folder
 3. **restart** your Minecraft server:
 
