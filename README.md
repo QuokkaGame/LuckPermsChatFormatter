@@ -1,6 +1,6 @@
 # 🌟 LuckPerms Chat Formatter
 
-<img alt="Java" src="https://img.shields.io/badge/Java-21-red"> [![Paper](https://img.shields.io/badge/Paper-1.21+-blue)](https://papermc.io/downloads/paper) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![LuckPerms](https://img.shields.io/badge/LuckPerms-Supported-brightgreen)](https://luckperms.net/download)
+![Java](https://img.shields.io/badge/Java-21-red) [![Paper](https://img.shields.io/badge/Paper-1.21+-blue)](https://papermc.io/downloads/paper) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![LuckPerms](https://img.shields.io/badge/LuckPerms-Supported-brightgreen)](https://luckperms.net/download)
  [![Disclaimer](https://img.shields.io/badge/Not%20affiliated%20with-LuckPerms-red)](#)
 
 ## 🚀 Overview
