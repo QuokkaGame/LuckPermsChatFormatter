@@ -1,6 +1,6 @@
 # 🌟 LuckPerms Chat Formatter
 
-![Java](https://img.shields.io/badge/Java-21-red) ![Paper](https://img.shields.io/badge/Paper-1.21+-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Disclaimer](https://img.shields.io/badge/Not%20affiliated%20with-LuckPerms-red)
+![Java](https://img.shields.io/badge/Java-21-red) ![Paper](https://img.shields.io/badge/Paper-1.21+-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![LuckPerms](https://img.shields.io/badge/LuckPerms-Supported-brightgreen) ![Disclaimer](https://img.shields.io/badge/Not%20affiliated%20with-LuckPerms-red)
 
 ## 🚀 Overview
 **LuckPermsChatFormatter** is a simple yet powerful chat formatting plugin for Minecraft.  
